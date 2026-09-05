@@ -29,3 +29,4 @@ commit 4 ok
 change A
 change B
 change C
+small real change
