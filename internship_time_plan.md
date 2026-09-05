@@ -28,3 +28,4 @@ BUG introduced here
 commit 4 ok
 change A
 change B
+change C
