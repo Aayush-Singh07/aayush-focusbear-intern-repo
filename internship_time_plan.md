@@ -24,3 +24,4 @@ test change
 branch only change
 commit 1 ok
 commit 2 ok
+BUG introduced here
