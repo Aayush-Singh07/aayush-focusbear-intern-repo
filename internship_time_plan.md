@@ -20,3 +20,4 @@ Approximately 20 hours per week, Monday to Friday, fully remote from Goa, India 
 - Total: ~20 hours of dedicated feature/task work + standups across the week, with flexibility to extend on weekends if a task genuinely requires more time to complete properly.
 - Will log actual work sessions via the Focus Bear app itself (focus sessions) as evidence of hours logged, in addition to this static plan.
 - This plan may shift slightly week to week depending on task load — any significant change will be flagged to the team in advance.
+test change
