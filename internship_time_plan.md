@@ -21,3 +21,4 @@ Approximately 20 hours per week, Monday to Friday, fully remote from Goa, India 
 - Will log actual work sessions via the Focus Bear app itself (focus sessions) as evidence of hours logged, in addition to this static plan.
 - This plan may shift slightly week to week depending on task load — any significant change will be flagged to the team in advance.
 test change
+branch only change
