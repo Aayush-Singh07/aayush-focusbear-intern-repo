@@ -27,3 +27,4 @@ commit 2 ok
 BUG introduced here
 commit 4 ok
 change A
+change B
