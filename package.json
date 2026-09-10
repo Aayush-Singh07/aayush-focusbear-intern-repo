@@ -1,0 +1,27 @@
+{
+  "name": "aayush-focusbear-intern-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aayush-Singh07/aayush-focusbear-intern-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aayush-Singh07/aayush-focusbear-intern-repo/issues"
+  },
+  "homepage": "https://github.com/Aayush-Singh07/aayush-focusbear-intern-repo#readme",
+  "devDependencies": {
+    "eslint": "^10.10.0",
+    "husky": "^9.1.7",
+    "prettier": "^3.9.6"
+  }
+}
